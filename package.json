@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/divraj111/roomTempServer/issues"
   },
-  "homepage": "https://github.com/divraj111/roomTempServer#readme"
+  "homepage": "https://github.com/divraj111/roomTempServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
