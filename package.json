@@ -1,0 +1,19 @@
+{
+  "name": "roomtempserver",
+  "version": "0.0.1",
+  "description": "My Room Temperature Monitor Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divraj111/roomTempServer.git"
+  },
+  "author": "Divraj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divraj111/roomTempServer/issues"
+  },
+  "homepage": "https://github.com/divraj111/roomTempServer#readme"
+}
